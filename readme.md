@@ -20,11 +20,11 @@
 
 ### テスト実行
 
-    gradle build
+    gradlew build
 
 ### ビルド実行
 
-    gradle build
+    gradlew build
 
 ## 実行方法
 
